@@ -19,7 +19,7 @@ Para crear este proyecto he usado:
 * [Porfolio web](https://XXXXXX.com/)
 
 ## Ver ejemplo en vivo 
-- [Ver Demo]([(http://www.amandatirado.com/practicas/scroll%20gallery/index.html])
+- [Ver Demo](http://www.amandatirado.com/practicas/scroll%20gallery/index.html)
 
 
 ## Contacto
