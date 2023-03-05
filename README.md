@@ -14,12 +14,12 @@ Para crear este proyecto he usado:
 ## Autor ✒️
 **Amanda Tirado**
 
-* [LinkedIn](https://www.linkedin.com/in/amandatiradoanula){target="_blank"}
-* [Behance](https://www.behance.net/amandatiradoanula){target="_blank"}
-* [Porfolio web](http://www.amandatirado.com){target="_blank"}
+* [LinkedIn](https://www.linkedin.com/in/amandatiradoanula)
+* [Behance](https://www.behance.net/amandatiradoanula)
+* [Porfolio web](http://www.amandatirado.com)
 
 ## Ver ejemplo en vivo 
-- [Ver Demo](http://www.amandatirado.com/practicas/scroll%20gallery/index.html){target="_blank"}
+- [Ver Demo](http://www.amandatirado.com/practicas/scroll%20gallery/index.html)
 
 
 ## Contacto
