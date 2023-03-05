@@ -14,7 +14,7 @@ Para crear este proyecto he usado:
 ## Autor ✒️
 **Amanda Tirado**
 
-* [LinkedIn](www.linkedin.com/in/amandatiradoanula)
+* [LinkedIn](https://www.linkedin.com/in/amandatiradoanula)
 * [Behance](https://www.behance.net/amandatiradoanula)
 * [Porfolio web](http://www.amandatirado.com)
 
