@@ -16,7 +16,7 @@ Para crear este proyecto he usado:
 
 * [LinkedIn](https://www.linkedin.com/in/XXXXXX)
 * [Behance](https://www.behance.net/XXXXXX)
-* [Porfolio web](https://XXXXXX.com/)
+* [Porfolio web](http://www.amandatirado.com)
 
 ## Ver ejemplo en vivo 
 - [Ver Demo](http://www.amandatirado.com/practicas/scroll%20gallery/index.html)
